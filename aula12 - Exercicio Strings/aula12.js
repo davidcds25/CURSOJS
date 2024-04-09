@@ -13,4 +13,3 @@ console.log(varA, varB, varC);
 // podemos resolver com array tmb
 //[varA, varB, varC] = [varB, varC, varA];
 
-let var2 
