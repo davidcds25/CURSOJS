@@ -7,3 +7,4 @@ git branch -M "main" // transforma nome da branch de master para main
 git remote add origin *Link do git* 
 git push -u origin main // recebe os commits para o github
 clear // limpa
+teste
