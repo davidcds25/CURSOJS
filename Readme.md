@@ -7,4 +7,11 @@ git branch -M "main" // transforma nome da branch de master para main
 git remote add origin *Link do git* 
 git push -u origin main // recebe os commits para o github
 clear // limpa
-teste
+git clone *link* 
+cd // igual ao cmd, entrar nas pastas
+git pull // atualiza os arquivos caso tenham sido alterados no github
+
+
+dentro do github
+Star // favorito
+Code (botao verde) // pego o link para fazer o clone
