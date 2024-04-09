@@ -20,3 +20,5 @@ dentro do github
 Star // favorito
 Code (botao verde) // pego o link para fazer o clone
 Fork // clona repositorios de outras pessoas
+
+Tamiris
