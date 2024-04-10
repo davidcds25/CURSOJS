@@ -8,6 +8,7 @@ console.log(nome[0])
 //                 0        1      2
 const alunos = ['Luiz', 'Maria', 'João'];
 
+//adiciona um indice no final com o valor informado
 alunos.push('Luiza');
 alunos.push('Eduardo');
 

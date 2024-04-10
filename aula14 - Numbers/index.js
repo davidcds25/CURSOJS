@@ -6,10 +6,11 @@ num1 += num2; // 0.8
 num1 += num2; // 0.9
 num1 += num2; // 1.0
 
-
+//determinando qtde de casa decimal de um numero
 num1 = Number(num1.toFixed(2));
 
 console.log(num1);
+//transformando numero em inteiro
 console.log(Number.isInteger(num1));
 
 //console.log(num1.toString() + num2);

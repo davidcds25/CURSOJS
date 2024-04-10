@@ -1,14 +1,4 @@
-/*<script>
-        const num1 = prompt("Digite um número");
-        document.body.innerHTML += `Seu número é: <strong>${num1}</strong><br />`;
-        document.body.innerHTML += `${num1} é inteiro ? <strong> ${Number.isInteger(num1)}</strong><br />`;
-        document.body.innerHTML += `Raiz Quadradada: <strong> ${num1 ** 0.5}</strong><br />`;
-        document.body.innerHTML += `É NaN ? <strong>${Number.isNaN(num1)}</strong><br />`;
-        document.body.innerHTML += `Arredondando para baixo: <strong>${Math.floor(num1)}</strong><br />`;
-        document.body.innerHTML += `Arredondando para cima: <strong>${Math.ceil(num1)}</strong><br />`;
-        document.body.innerHTML += `Com duas casas decimais: <strong>${num1.toFixed(2)}</strong>  <br />`;   
-
-    </script> */
+/* no exercicio abaixo, devemos efetuar e apresentar o resultado das contas de acordo com o numero digitado pelo usuario */
 
 const numero = Number(prompt('Digite um numero:'));
 const numeroTitulo = window.document.getElementById('numero-titulo');

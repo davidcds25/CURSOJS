@@ -18,6 +18,7 @@ const corPadrao = corUsuario || 'preto';
 console.log(corPadrao);
 */
 
+//exemplo de apresentação do OU, que vai retornar o primeiro valor verdadeiro ou ultimo falso
 const a = 0;
 const b = null;
 const c = false;

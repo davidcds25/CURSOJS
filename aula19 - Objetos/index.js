@@ -29,6 +29,7 @@ const pessoa5 = criaPessoa ('Tamiris', 'Otavio', 25);
 console.log(pessoa1, pessoa2, pessoa3.nome, pessoa4.nome, pessoa5.nome);
 */
 
+//Aqui criamos o objeto Pessoa que recebe nome, sobrenome e idade, e dentro dele temos 2 funções a fala() que apresenta um print ao usuario, e o incrementaIdade()
 const pessoa1 = {
     nome: 'Luiz',
     sobrenome: 'Miranda',
@@ -43,6 +44,7 @@ const pessoa1 = {
     }
 };
 
+//aqui estamos chamando as funções dentro do objeto pessoa1
 pessoa1.fala();
 pessoa1.incrementaIdade();
 pessoa1.fala();
